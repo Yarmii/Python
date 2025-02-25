@@ -1,0 +1,4 @@
+Samsung;Japan;100
+Apple;India;200
+Audi;Germany;150
+BMW;Germany;50
